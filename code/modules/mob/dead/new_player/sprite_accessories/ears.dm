@@ -68,44 +68,37 @@
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Broken Horns"
 	icon_state = "broken"
-	synthetic_icon_state = "none"
 
 /datum/sprite_accessory/ears/human/horns/lightning
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Lightning Horns"
 	icon_state = "lightning"
-	synthetic_icon_state = "none"
 
 /datum/sprite_accessory/ears/human/horns/brimstone
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Brimstone Horns"
 	icon_state = "brimstone"
-	synthetic_icon_state = "none"
 
 //old horns
 /datum/sprite_accessory/ears/human/horns/simple
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Simple Horns"
 	icon_state = "simple"
-	synthetic_icon_state = "simple_synth"
 
 /datum/sprite_accessory/ears/human/horns/short
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Short Horns"
 	icon_state = "short"
-	synthetic_icon_state = "short_synth"
 
 /datum/sprite_accessory/ears/human/horns/curled
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Curled Horns"
 	icon_state = "curled"
-	synthetic_icon_state = "curled_synth"
 
 /datum/sprite_accessory/ears/human/horns/ram //remade
 	icon = 'icons/mob/species/human/horns.dmi'
 	name = "Ram Horns"
 	icon_state = "ram"
-	synthetic_icon_state = "ram_synth"
 
 /datum/sprite_accessory/ears/human/horns/angler
 	icon = 'icons/mob/species/human/horns.dmi'
