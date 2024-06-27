@@ -3489,6 +3489,8 @@
 #include "code\modules\zombie\items.dm"
 #include "code\modules\zombie\organs.dm"
 #include "freakytest\subtlerag.dm"
+#include "freakytest\code\modules\mob\dead\new_player\sprite_accessories\ears.dm"
+#include "freakytest\code\modules\mob\dead\new_player\sprite_accessories\hair.dm"
 #include "interface\interface.dm"
 #include "interface\menu.dm"
 #include "interface\stylesheet.dm"
