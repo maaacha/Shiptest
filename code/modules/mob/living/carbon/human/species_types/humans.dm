@@ -40,6 +40,13 @@
 		if("Rabbit")
 			mutant_organs |= /obj/item/organ/tail/rabbit
 
+		if("Lizard Smooth")
+			mutant_organs |= /obj/item/organ/tail/lizard
+		if("Lizard Large")
+			mutant_organs |= /obj/item/organ/tail/lizard
+		if("Lizard Small")
+			mutant_organs |= /obj/item/organ/tail/lizard
+
 	return ..()
 
 /datum/species/human/spec_death(gibbed, mob/living/carbon/human/H)
