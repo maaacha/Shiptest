@@ -62,3 +62,45 @@
 	icon_state = "bunny_floppy"
 	secondary_color = TRUE
 	color_src = HAIR
+
+//new horns
+/datum/sprite_accessory/ears/human/horns/broken
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Broken Horns"
+	icon_state = "broken"
+
+/datum/sprite_accessory/ears/human/horns/lightning
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Lightning Horns"
+	icon_state = "lightning"
+
+/datum/sprite_accessory/ears/human/horns/brimstone
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Brimstone Horns"
+	icon_state = "brimstone"
+
+//old horns
+/datum/sprite_accessory/ears/human/horns/simple
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Simple Horns"
+	icon_state = "simple"
+
+/datum/sprite_accessory/ears/human/horns/short
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Short Horns"
+	icon_state = "short"
+
+/datum/sprite_accessory/ears/human/horns/curled
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Curled Horns"
+	icon_state = "curled"
+
+/datum/sprite_accessory/ears/human/horns/ram //remade
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Ram Horns"
+	icon_state = "ram"
+
+/datum/sprite_accessory/ears/human/horns/angler
+	icon = 'icons/mob/species/human/horns.dmi'
+	name = "Angeler Horns"
+	icon_state = "angler"

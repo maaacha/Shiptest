@@ -73,3 +73,40 @@
 	name = "Rabbit"
 	icon_state = "bunny"
 	color_src = HAIR
+
+// Lizard
+
+/datum/sprite_accessory/tails/human/smooth_onecolor
+	icon = 'icons/mob/species/lizard/tails.dmi'
+	name = "Lizard Smooth"
+	icon_state = "smooth2"
+	secondary_color = FALSE
+
+/datum/sprite_accessory/tails_animated/human/smooth_onecolor
+	icon = 'icons/mob/species/lizard/tails.dmi'
+	name = "Lizard Smooth"
+	icon_state = "smooth2"
+
+/datum/sprite_accessory/tails/human/large
+	icon = 'icons/mob/species/lizard/tails.dmi'
+	name = "Lizard Large"
+	icon_state = "large"
+	secondary_color = TRUE
+
+/datum/sprite_accessory/tails_animated/human/large
+	icon = 'icons/mob/species/lizard/tails.dmi'
+	name = "Lizard Large"
+	icon_state = "large"
+	secondary_color = TRUE
+
+/datum/sprite_accessory/tails/human/small
+	icon = 'icons/mob/species/lizard/tails.dmi'
+	name = "Lizard Small"
+	icon_state = "small"
+	secondary_color = TRUE
+
+/datum/sprite_accessory/tails_animated/human/small
+	icon = 'icons/mob/species/lizard/tails.dmi'
+	name = "Lizard Small"
+	icon_state = "small"
+	secondary_color = TRUE
